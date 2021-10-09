@@ -1,0 +1,16 @@
+C:\Users\jorda\source\repos\myGitActions\bin\Debug\net5.0\myGitActions.exe
+C:\Users\jorda\source\repos\myGitActions\bin\Debug\net5.0\myGitActions.deps.json
+C:\Users\jorda\source\repos\myGitActions\bin\Debug\net5.0\myGitActions.runtimeconfig.json
+C:\Users\jorda\source\repos\myGitActions\bin\Debug\net5.0\myGitActions.runtimeconfig.dev.json
+C:\Users\jorda\source\repos\myGitActions\bin\Debug\net5.0\myGitActions.dll
+C:\Users\jorda\source\repos\myGitActions\bin\Debug\net5.0\ref\myGitActions.dll
+C:\Users\jorda\source\repos\myGitActions\bin\Debug\net5.0\myGitActions.pdb
+C:\Users\jorda\source\repos\myGitActions\obj\Debug\net5.0\myGitActions.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\myGitActions\obj\Debug\net5.0\myGitActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\source\repos\myGitActions\obj\Debug\net5.0\myGitActions.AssemblyInfoInputs.cache
+C:\Users\jorda\source\repos\myGitActions\obj\Debug\net5.0\myGitActions.AssemblyInfo.cs
+C:\Users\jorda\source\repos\myGitActions\obj\Debug\net5.0\myGitActions.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\myGitActions\obj\Debug\net5.0\myGitActions.dll
+C:\Users\jorda\source\repos\myGitActions\obj\Debug\net5.0\ref\myGitActions.dll
+C:\Users\jorda\source\repos\myGitActions\obj\Debug\net5.0\myGitActions.pdb
+C:\Users\jorda\source\repos\myGitActions\obj\Debug\net5.0\myGitActions.genruntimeconfig.cache
